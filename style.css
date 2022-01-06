@@ -108,7 +108,7 @@ a {
   height: auto;
 }
 footer {
-  background: #0B0D17;
+  background: #000000;
   padding: 20px;
   text-align: center;
   color: white;
@@ -122,4 +122,41 @@ h3 {
 }
 .colorized {
   color: #FF5959;
+}
+.fourth-width {
+  width: 25%;
+
+}
+.fourth-width img {
+  width: 100%;
+}
+.box-shadow1 {
+  box-shadow: 20px 20px 50px rgb(212, 13, 13);
+  margin-right: 50px;
+  padding: 25px;
+}
+.box-shadow2 {
+  box-shadow: 20px 20px 50px rgb(17, 206, 165);
+  margin-right: 50px;
+  padding: 25px;
+}
+.box-shadow3 {
+  box-shadow: 20px 20px 50px rgb(10, 82, 216);
+  margin-right: 50px;
+  padding: 25px;
+}
+.box-shadow4 {
+  box-shadow: 20px 20px 50px rgb(111, 231, 12);
+  margin-left: 50px;
+  padding: 25px;
+}
+h4 {
+  color:rgb(111, 231, 12);
+  font-size: 18px;
+}
+.project-paragraph {
+  font-size: 16px;
+}
+.project {
+  margin-bottom: 100px;
 }
