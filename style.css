@@ -14,6 +14,9 @@ body {
 h1 {
   font-size: 50px;
 }
+h2 {
+  font-size: 40px;
+}
 .border {
   border-left: 3px solid #ff5959;
   padding-left: 10px;
@@ -71,4 +74,52 @@ a {
 }
 .three {
   background-color: #d1525227; 
+}
+.coding-section {
+  padding: 0px 150px;
+  margin-bottom: 100px;
+}
+.width-perfection-1 img {
+  width: 100%;
+  height: auto;
+}
+.width-perfection-1 {
+  width: 40%; 
+  padding-right: 70px;
+}
+.width-perfection-2 {
+  width: 60%;  
+}
+.community-section {
+  padding: 0px 150px;
+  margin-bottom: 100px;
+}
+
+.width-perfection-3 {
+  width: 60%;
+  padding-right: 70px;
+}
+.width-perfection-4 {
+  width: 40%;
+}
+
+.width-perfection-4 img {
+  width: 100%;
+  height: auto;
+}
+footer {
+  background: #0B0D17;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+footer p {
+  font-size: 14px;
+  color: #9EA0A7;
+}
+h3 {
+  font-size: 35px;
+}
+.colorized {
+  color: #FF5959;
 }
