@@ -5,7 +5,7 @@ body {
 }
 .flexible {
   display: flex;
-  padding: 50px 100px;
+  padding: 50px;
 }
 .half-width {
   width: 50%;
@@ -21,7 +21,7 @@ h1 {
 }
 .paragraph {
   font-size: 18px;
-  line-height: 30px;
+  line-height: 25px;
   color: #545454;
   text-align: justify;
   padding-bottom: 20px;
@@ -41,7 +41,34 @@ a {
 .orange {
   color: orange;
 }
- img {
+.half-width img {
   width: 80%;
   padding-left: 10%;
+}
+.three-width {
+  width: 33%;
+  padding-left: 10%;
+  border-radius: 20px;
+  padding: 30px;
+  margin-right: 30px;
+}
+.blue {
+  color: #13103A;
+  text-align: center;
+}
+.three-width img {
+  width: 30%;
+  text-align: center;
+}
+.mission-section {
+  padding: 70px;
+}
+.one {
+  background-color: #EDF5F6; 
+}
+.two {
+  background-color: #FFEEEE;  
+}
+.three {
+  background-color: #d1525227; 
 }
