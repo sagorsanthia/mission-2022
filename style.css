@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+.flexible {
+  display: flex;
+  padding: 50px 100px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 7%;
+}
+h1 {
+  font-size: 50px;
+}
+.border {
+  border-left: 3px solid #ff5959;
+  padding-left: 10px;
+  opacity: 0.6;
+}
+.paragraph {
+  font-size: 18px;
+  line-height: 30px;
+  color: #545454;
+  text-align: justify;
+  padding-bottom: 20px;
+}
+.paragraph2 {
+  color: #545454;
+  padding: 30px 0px;
+  font-size: 16px;
+}
+a {
+  text-decoration: none;
+  background: #FF5959;
+  padding: 15px 30px;
+  border-radius: 5px;
+  color: white;
+}
+.orange {
+  color: orange;
+}
+ img {
+  width: 80%;
+  padding-left: 10%;
+}
